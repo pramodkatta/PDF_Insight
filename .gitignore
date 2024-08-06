@@ -1,0 +1,17 @@
+# .gitignore
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
